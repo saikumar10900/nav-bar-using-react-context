@@ -1,4 +1,6 @@
-In this project, let's build a **Navbar with Context** by applying the concepts we have learned till now.
+**Navbar with Context**
+
+## implemented this navbar using react context concepts
 
 ### Refer to the image below:
 
